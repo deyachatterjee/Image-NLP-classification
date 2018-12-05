@@ -1,6 +1,6 @@
 # Pathology Image Classification Assisting with NLP Classifier
 
-The *Final Goal* is to classify pathology images, with the help of text descriptions to improve performance. The projects is still in progress.
+The *Final Goal* is to classify pathology images, with the help of text descriptions to improve performance. The projects are still in progress.
 
 ## The work has been done
 
